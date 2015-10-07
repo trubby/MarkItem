@@ -1,0 +1,7 @@
+name: MarkItem
+version: 1.0
+description: awd
+main: Trubby.co.th.MarkItem
+author: Tub
+commands:
+  markitem:
